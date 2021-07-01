@@ -14,13 +14,15 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: posthog.github.io
   baseUrl: /uptime
-  logoUrl: https://posthog.com/images/046d5c4ee4fc9e8603bece37bab18cf6/posthog-logo-150x29.svg
+  logoUrl: https://posthog.com/images/36f8ad157f42d4d48dc1de1db45802e1/posthog-icon-color.svg
   name: PostHog
   introTitle: "**PostHog** Uptime and API statistics"
   introMessage: Uptime, Statistics, and outages of PostHog site and services
   navbar:
     - title: Status
       href: /
+    - title: App
+      href: https://app.posthog.com
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
