@@ -10,15 +10,17 @@ sites:
     url: https://app.posthog.com/_health
   - name: PostHog Data Ingestion API
     method: POST
-    url: https://app.posthog.com/capture/
+    url: https://app.posthog.com/batch/
     headers:
       - "Content-Type: application/json"
     body: '{
       "api_key": "$PH_API_KEY",
-      "event": "status_check",
       "properties": {
         "distinct_id": "robot",
+        "source": "upptime"
       },
+      "type": "capture",
+      "event": "status_check"
     }'
 
 status-website:
