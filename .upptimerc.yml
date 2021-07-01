@@ -8,7 +8,7 @@ sites:
     url: https://posthog.com
   - name: PostHog API
     url: https://app.posthog.com/_health
-  - name: PostHog Data Ingestion API
+  - name: PostHog Data Ingestion
     method: POST
     url: https://app.posthog.com/batch/
     headers:
