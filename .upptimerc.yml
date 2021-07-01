@@ -8,6 +8,18 @@ sites:
     url: https://posthog.com
   - name: PostHog API
     url: https://app.posthog.com/_health
+  - name: PostHog Data Ingestion API
+    method: POST
+    url: https://app.posthog.com/capture/
+    headers:
+      - "Content-Type: application/json"
+    body: '{
+      "api_key": "$PH_API_KEY",
+      "event": "status_check",
+      "properties": {
+        "distinct_id": "robot",
+      },
+    }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
