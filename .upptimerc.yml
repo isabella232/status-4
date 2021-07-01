@@ -26,8 +26,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: posthog.github.io
-  baseUrl: /uptime
+  cname: status.posthog.com
+  # baseUrl: /uptime
   logoUrl: https://posthog.com/images/36f8ad157f42d4d48dc1de1db45802e1/posthog-icon-color.svg
   name: PostHog
   introTitle: "**PostHog** Uptime and API statistics"
