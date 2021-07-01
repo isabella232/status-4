@@ -1,7 +1,8 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+owner: posthog # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
+assignees: # Users to assign downtime issues (optional)
+  - fuziontech
 sites:
   - name: PostHog.com
     url: https://posthog.com
@@ -11,9 +12,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: uptime.posthog.com
+  cname: posthog.github.io
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://posthog.com/images/046d5c4ee4fc9e8603bece37bab18cf6/posthog-logo-150x29.svg
   name: PostHog
   introTitle: "**PostHog** Uptime and API statistics"
   introMessage: Uptime, Statistics, and outages of PostHog site and services
