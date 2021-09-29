@@ -1,7 +1,7 @@
 url: https://app.posthog.com/_health
 status: up
 code: 200
-responseTime: 139
-lastUpdated: 2021-09-28T23:00:56.748Z
+responseTime: 104
+lastUpdated: 2021-09-29T23:00:39.152Z
 startTime: Thu Jul 01 2021 19:47:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
