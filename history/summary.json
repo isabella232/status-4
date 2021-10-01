@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1027,
-    "timeDay": 399,
-    "timeWeek": 544,
-    "timeMonth": 540,
-    "timeYear": 1027,
+    "time": 1024,
+    "timeDay": 778,
+    "timeWeek": 566,
+    "timeMonth": 546,
+    "timeYear": 1024,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.09%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.93%",
-    "time": 368,
-    "timeDay": 104,
-    "timeWeek": 1946,
-    "timeMonth": 689,
-    "timeYear": 368,
+    "time": 366,
+    "timeDay": 173,
+    "timeWeek": 1953,
+    "timeMonth": 706,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2021-09-27": 91
     }
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/app.posthog.com",
     "slug": "post-hog-data-ingestion",
     "status": "up",
-    "uptime": "99.91%",
+    "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.91%",
-    "time": 190,
-    "timeDay": 25,
-    "timeWeek": 214,
-    "timeMonth": 146,
-    "timeYear": 190,
+    "uptimeYear": "99.92%",
+    "time": 189,
+    "timeDay": 99,
+    "timeWeek": 221,
+    "timeMonth": 148,
+    "timeYear": 189,
     "dailyMinutesDown": {
       "2021-09-27": 111
     }
