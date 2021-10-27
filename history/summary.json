@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/posthog.com",
     "slug": "post-hog-com",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "98.77%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 937,
-    "timeDay": 2752,
-    "timeWeek": 1077,
-    "timeMonth": 624,
-    "timeYear": 937,
+    "uptime": "99.67%",
+    "uptimeDay": "61.54%",
+    "uptimeWeek": "94.51%",
+    "uptimeMonth": "98.74%",
+    "uptimeYear": "99.67%",
+    "time": 939,
+    "timeDay": 3091,
+    "timeWeek": 1170,
+    "timeMonth": 653,
+    "timeYear": 939,
     "dailyMinutesDown": {
-      "2021-10-26": 18
+      "2021-10-27": 1,
+      "2021-10-26": 553
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 494,
-    "timeDay": 68,
-    "timeWeek": 1748,
-    "timeMonth": 1164,
-    "timeYear": 494,
+    "time": 492,
+    "timeDay": 184,
+    "timeWeek": 1746,
+    "timeMonth": 1165,
+    "timeYear": 492,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 28,
-    "timeWeek": 63,
+    "time": 298,
+    "timeDay": 94,
+    "timeWeek": 64,
     "timeMonth": 581,
-    "timeYear": 300,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   }
 ]
