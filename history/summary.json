@@ -40,19 +40,19 @@
     "url": "https://app.posthog.com/batch/",
     "icon": "https://favicons.githubusercontent.com/app.posthog.com",
     "slug": "post-hog-data-ingestion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 277,
-    "timeDay": 76,
-    "timeWeek": 85,
-    "timeMonth": 95,
-    "timeYear": 277,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.88%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
+    "time": 275,
+    "timeDay": 60,
+    "timeWeek": 79,
+    "timeMonth": 93,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2021-11-09": 0
+      "2021-11-09": 31
     }
   }
 ]
