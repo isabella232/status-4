@@ -4,9 +4,9 @@
     "url": "https://posthog.com",
     "icon": "https://favicons.githubusercontent.com/posthog.com",
     "slug": "post-hog-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 265,
     "timeMonth": 360,
     "timeYear": 759,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-20": 0
+    }
   },
   {
     "name": "PostHog API",
