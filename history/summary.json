@@ -6,18 +6,16 @@
     "slug": "post-hog-com",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 758,
-    "timeDay": 307,
-    "timeWeek": 288,
-    "timeMonth": 364,
-    "timeYear": 758,
-    "dailyMinutesDown": {
-      "2021-12-20": 10
-    }
+    "time": 754,
+    "timeDay": 315,
+    "timeWeek": 271,
+    "timeMonth": 362,
+    "timeYear": 754,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PostHog API",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 423,
-    "timeDay": 137,
-    "timeWeek": 290,
+    "time": 421,
+    "timeDay": 89,
+    "timeWeek": 253,
     "timeMonth": 292,
-    "timeYear": 423,
+    "timeYear": 421,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 313,
-    "timeDay": 12,
-    "timeWeek": 129,
+    "time": 311,
+    "timeDay": 18,
+    "timeWeek": 54,
     "timeMonth": 584,
-    "timeYear": 313,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
