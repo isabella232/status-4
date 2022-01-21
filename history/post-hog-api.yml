@@ -1,7 +1,7 @@
 url: https://app.posthog.com/_health
-status: down
-code: 502
-responseTime: 405
-lastUpdated: 2022-01-21T23:29:43.652Z
+status: up
+code: 200
+responseTime: 472
+lastUpdated: 2022-01-21T23:46:33.505Z
 startTime: Thu Jul 01 2021 19:47:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
