@@ -22,19 +22,19 @@
     "url": "https://app.posthog.com/_health",
     "icon": "https://favicons.githubusercontent.com/app.posthog.com",
     "slug": "post-hog-api",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "95.31%",
-    "uptimeWeek": "99.33%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.98%",
-    "time": 484,
-    "timeDay": 2286,
-    "timeWeek": 1536,
-    "timeMonth": 785,
-    "timeYear": 484,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "94.74%",
+    "uptimeWeek": "99.25%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.97%",
+    "time": 483,
+    "timeDay": 2104,
+    "timeWeek": 1462,
+    "timeMonth": 772,
+    "timeYear": 483,
     "dailyMinutesDown": {
-      "2022-01-21": 68
+      "2022-01-21": 76
     }
   },
   {
