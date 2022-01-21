@@ -22,35 +22,39 @@
     "url": "https://app.posthog.com/_health",
     "icon": "https://favicons.githubusercontent.com/app.posthog.com",
     "slug": "post-hog-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 402,
-    "timeDay": 126,
-    "timeWeek": 262,
-    "timeMonth": 279,
-    "timeYear": 402,
-    "dailyMinutesDown": {}
+    "time": 445,
+    "timeDay": 5125,
+    "timeWeek": 1495,
+    "timeMonth": 586,
+    "timeYear": 445,
+    "dailyMinutesDown": {
+      "2022-01-21": 0
+    }
   },
   {
     "name": "PostHog Data Ingestion",
     "url": "https://app.posthog.com/batch/",
     "icon": "https://favicons.githubusercontent.com/app.posthog.com",
     "slug": "post-hog-data-ingestion",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 307,
-    "timeDay": 58,
-    "timeWeek": 61,
-    "timeMonth": 285,
-    "timeYear": 307,
-    "dailyMinutesDown": {}
+    "time": 306,
+    "timeDay": 30,
+    "timeWeek": 54,
+    "timeMonth": 277,
+    "timeYear": 306,
+    "dailyMinutesDown": {
+      "2022-01-21": 0
+    }
   }
 ]
