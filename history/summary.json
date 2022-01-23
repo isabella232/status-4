@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 704,
-    "timeDay": 262,
-    "timeWeek": 272,
-    "timeMonth": 402,
-    "timeYear": 704,
+    "time": 701,
+    "timeDay": 141,
+    "timeWeek": 252,
+    "timeMonth": 401,
+    "timeYear": 701,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/app.posthog.com",
     "slug": "post-hog-api",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "92.00%",
-    "uptimeWeek": "98.86%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.96%",
-    "time": 490,
-    "timeDay": 1652,
-    "timeWeek": 1283,
-    "timeMonth": 776,
-    "timeYear": 490,
-    "dailyMinutesDown": {
-      "2022-01-21": 116
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 488,
+    "timeDay": 139,
+    "timeWeek": 1274,
+    "timeMonth": 777,
+    "timeYear": 488,
+    "dailyMinutesDown": {}
   },
   {
     "name": "PostHog Data Ingestion",
@@ -43,18 +41,16 @@
     "icon": "https://favicons.githubusercontent.com/app.posthog.com",
     "slug": "post-hog-data-ingestion",
     "status": "up",
-    "uptime": "99.95%",
-    "uptimeDay": "89.42%",
-    "uptimeWeek": "98.49%",
-    "uptimeMonth": "99.65%",
-    "uptimeYear": "99.95%",
-    "time": 407,
-    "timeDay": 2395,
-    "timeWeek": 1570,
-    "timeMonth": 830,
-    "timeYear": 407,
-    "dailyMinutesDown": {
-      "2022-01-21": 153
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 406,
+    "timeDay": 14,
+    "timeWeek": 1566,
+    "timeMonth": 828,
+    "timeYear": 406,
+    "dailyMinutesDown": {}
   }
 ]
