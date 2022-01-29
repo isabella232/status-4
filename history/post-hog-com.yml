@@ -1,7 +1,7 @@
 url: https://posthog.com
-status: up
-code: 200
-responseTime: 478
-lastUpdated: 2022-01-28T23:00:59.509Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-01-29T08:04:14.655Z
 startTime: Thu Jul 01 2021 19:47:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
