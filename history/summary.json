@@ -4,19 +4,19 @@
     "url": "https://posthog.com",
     "icon": "https://favicons.githubusercontent.com/posthog.com",
     "slug": "post-hog-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 681,
-    "timeDay": 304,
-    "timeWeek": 305,
-    "timeMonth": 292,
+    "timeDay": 408,
+    "timeWeek": 328,
+    "timeMonth": 299,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2022-02-03": 0
+      "2022-02-03": 13
     }
   },
   {
